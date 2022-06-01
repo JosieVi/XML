@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<site_winnote>
+ <article>Bug #1</article>
+ <content>Summary: "Login: Error messages in the login from are displayed in English"</content>
+ <content>Environment: "All browsers / devices"</content>
+ <content>Severity: "Major"</content>
+ <content>Steps for reproduce: 1. Open https://. 2. Follow 'Inloggen' link. 3. Fill required fields with invalid data. 4. Click 'Inloggen' button. 5. Pay attention to error messages</content>
+ <content>Actual results: "Error messages in the login form are displayed in English"</content>
+ <content>Expected results: "Error messages in the login form are displayed in the chosen language"</content>
+/site_winnote>
